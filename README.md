@@ -1,13 +1,16 @@
 
 
-# F4Life
+<h1 align='center'>F4LIFE</h1>
 
+![landing-page](https://user-images.githubusercontent.com/60482900/154978012-f72ac190-a3ee-4529-b2c1-e91a351c5f47.png)
 
-## Descrição:
- Landing page é uma página para uma empresa de locação de imóveis voltada para alunos universitários, um desafio do Bootcamp Labenu, desenvolvido em grupo, com objetivos de colocar em prática conhecimentos em html, css e responsividade.
+****************************************************************************************************************
+ ## Descrição:
+ Landing page para uma empresa de locação de imóveis voltada para alunos universitários, um desafio do Bootcamp Labenu, desenvolvido em grupo, com objetivos de colocar em prática conhecimentos em html, css e responsividade.
 ****************************************************************************************************************
 
-<video width='670px' controls src='https://user-images.githubusercontent.com/60482900/145998468-eb860691-59c7-45d6-a823-e4018e2c1cbc.mp4'></video>
+<br/>
+<video width='787px' controls src='https://user-images.githubusercontent.com/60482900/145998468-eb860691-59c7-45d6-a823-e4018e2c1cbc.mp4'></video>
 
 ****************************************************************************************************************
 
